@@ -13,4 +13,5 @@ print(b[2:])
 # With negative indexes
 b = "Hello, World!"
 print(b[-5:-2])
+
 #output: orl
