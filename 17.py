@@ -1,11 +1,4 @@
-#correct form
-x = 5
-y = "John"
-print(x, y)
-
-#incorrect form
-'''
-x = 5
-y = "John"
-print(x + y)
-'''
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)

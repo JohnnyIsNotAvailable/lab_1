@@ -1,17 +1,9 @@
-# Use the format() method to insert numbers into strings:
+x = "awesome"
 
+def myfunc():
+  global x
+  x = "fantastic"
 
-age = 36
-txt = "My name is John, and I am {}"
-print(txt.format(age))
+myfunc()
 
-
-quantity = 3
-itemno = 567
-price = 49.95
-myorder = "I want {} pieces of item {} for {} dollars."
-print(myorder.format(quantity, itemno, price))
-
-
-myorder = "I want to pay {2} dollars for {0} pieces of item {1}."
-print(myorder.format(quantity, itemno, price))
+print("Python is " + x)

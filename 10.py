@@ -1,6 +1,6 @@
-myvar = "John"
-my_var = "John"
-_my_var = "John"
-myVar = "John"
-MYVAR = "John"
-myvar2 = "John" 
+"""
+This is a comment
+written in
+more than just one line
+"""
+print("Hello, World!")

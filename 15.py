@@ -1,4 +1,3 @@
-x = "Python "
-y = "is "
-z = "awesome"
-print(x + y + z)
+x = "John"
+# is the same as
+x = 'John'

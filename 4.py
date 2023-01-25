@@ -1,4 +1,3 @@
 x = 5
-y = "John" 
-print(x)
-print(y)
+y = "Hello, World!"
+print(x, y)

@@ -1,17 +1,6 @@
-b = "Hello, World!"
-print(b[:5])
+x = "awesome"
 
-#output: Hello
+def myfunc():
+  print("Python is " + x)
 
-
-b = "Hello, World!"
-print(b[2:])
-
-#output: llo, World!
-
-
-# With negative indexes
-b = "Hello, World!"
-print(b[-5:-2])
-
-#output: orl
+myfunc()

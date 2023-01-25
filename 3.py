@@ -1,9 +1,4 @@
-#This is a comment
-print("Hello, World!") 
- 
-'''
-This
-is
-also
-comment
-'''
+if 5 > 2:
+ print("Five is greater than two!") 
+if 5 > 2:
+        print("Five is greater than two!") 

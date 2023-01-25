@@ -1,4 +1,1 @@
-x = 5
-y = "John"
-print(type(x))
-print(type(y)) 
+print("Hello, World!") #This is a comment

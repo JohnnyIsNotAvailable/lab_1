@@ -1,22 +1,9 @@
-a = "Hello, World!"
-print(a.upper())
-#output HELLO, WORLD!
+x = "awesome"
 
-print(a.lower())
-#output hello, world!
+def myfunc():
+  x = "fantastic"
+  print("Python is " + x)
 
-a = " Hello, World! "
-# The strip() method removes any whitespace from the beginning or the end
-print(a.strip()) 
+myfunc()
 
-# returns "Hello, World!"
-
-
-#The replace() method replaces a string with another string
-a = "Hello, World!"
-print(a.replace("H", "J"))
-
-#The split() method splits the string into substrings if it finds instances of the separator:
-print(a.split(",")) 
-# returns ['Hello', ' World!']
-
+print("Python is " + x)

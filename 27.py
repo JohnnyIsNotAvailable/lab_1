@@ -1,5 +1,7 @@
-a = "Hello"
-b = "World"
-c = a + " " + b
+def myfunc():
+  global x
+  x = "fantastic"
 
-print(c)
+myfunc()
+
+print("Python is " + x)

@@ -1,6 +1,3 @@
-#срезы
-b = "Hello, World!"
-print(b[2:5])
-
-
-#output: llo
+x = 5
+y = "John"
+print(x, y)

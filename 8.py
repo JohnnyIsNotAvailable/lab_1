@@ -1,3 +1,2 @@
-x = "John"
-# is the same as
-x = 'John' 
+#print("Hello, World!")
+print("Cheers, Mate!")
